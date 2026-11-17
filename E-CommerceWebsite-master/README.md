@@ -78,14 +78,14 @@ E-CommerceWebsite/
 We obtained the existing E-Commerce Website source code from GitHub.
 
 Original Repository:
-https://github.com/Memorina/Popsticle-.git
+https://github.com/Memorina/E-commerce-Platform-.git
 
 ### Step 2: Downloading the Project
 
 The repository was cloned/downloaded to our local computer.
 
 ```bash
-git clone https://github.com/Memorina/Popsticle-.git
+git clone https://github.com/Memorina/E-commerce-Platform-.git
 ```
 
 ### Step 3: Opening the Project
@@ -165,7 +165,7 @@ Through this project, we learned:
 
 ## 🔗 Project References
 
-- Original GitHub Repository: https://github.com/Memorina/Popsticle-.git 
+- Original GitHub Repository: https://github.com/Memorina/E-commerce-Platform-.git
 - Git Documentation: https://git-scm.com/doc
 - GitHub Documentation: https://docs.github.com/
 
